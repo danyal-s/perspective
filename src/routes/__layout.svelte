@@ -7,6 +7,10 @@
 
 <main>
 	<slot />
+	<div class="max-w-4xl mx-auto py-8">
+	<div class="text-gray-600">Loading ...</div>
+
+	  </div>
 </main>
 
 <footer>
